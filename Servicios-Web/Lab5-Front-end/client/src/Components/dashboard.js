@@ -9,7 +9,7 @@ function Dashboard() {
       .then(data => setData(data))
       .catch(error => console.error(error));
   };
-
+   
   return (
     <div className="p-4 bg-gray-100">
       <h1 className="text-2xl font-bold">Dashboard</h1>
