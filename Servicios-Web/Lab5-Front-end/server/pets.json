@@ -1,17 +1,19 @@
 {
-    "pet1" : {
-       "name" : "barry",
-       "type" : "cat",
-       "owner" : "moralex",
-       "color" : "white with black-gray-ish",
-       "id": 1
-    },
-     "pet2" : {
-        "name" : "nezuko",
-        "type" : "cat",
-        "owner" : "eldelcesar",
-        "color" : "black and white",
-        "id": 2
-    }
+    "song1": {
+        "name": "Stairway to Heaven",
+        "artist": "Led Zeppelin",
+        "album": "Led Zeppelin IV",
+        "key": "A minor",
+        "bpm": 63,
+        "duration": "8:02"
+      },
+      "song2": {
+        "name": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "album": "A Night at the Opera",
+        "key": "Bb major",
+        "bpm": 72,
+        "duration": "5:55"
+      }
 }
    

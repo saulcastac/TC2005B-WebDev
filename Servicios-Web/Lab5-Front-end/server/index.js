@@ -9,7 +9,7 @@ app.use(bodyParser.json());
 
 
 app.get("/api/hello", (req, res) => {
-  res.json({ message: "Hello from server side!"});
+  res.json({ message: "We just love it!"});
 });
 
 app.get("/api/pet", (req, res) => {

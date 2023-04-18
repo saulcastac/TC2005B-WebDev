@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React from "react";
 import Dashboard from './Components/dashboard';
@@ -15,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="/vinyl.png" className="App-logo" alt="logo" />
         <p>{!data ? "Loading..." : data}</p>
         <Dashboard/>
       </header>
